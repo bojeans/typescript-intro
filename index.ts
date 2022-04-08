@@ -1,3 +1,4 @@
+/// <reference types="@types/google.maps" />
 import { User } from './src/classes/User';
 import { Company } from './src/classes/Company';
 import { CustomMap } from './src/classes/CustomMap';
